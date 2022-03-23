@@ -1,5 +1,4 @@
-# SC126_i2c_bus_routines
-## SC126 I2C bus routines
+# SC126 I2C bus routines
 
 #### 1000 - PORT_INIT:		    Configures the 8 bit control register IC – U6.
 #### 1017 - I2C_RESET:		    Reset the I2C bus ready for communication.
